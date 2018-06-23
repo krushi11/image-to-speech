@@ -1,0 +1,7 @@
+This project takes an image as input, converts it to speech and stores in an mp3 file, and plays the mp3 file.
+
+You can run the program as
+python image-to-speech.py <image-file-name>
+
+Example,
+$ python image-to-speech.py text-haha.jpg
